@@ -1,0 +1,7 @@
+com\wenyu\crm\bean\QueryVo.class
+com\wenyu\crm\controller\CustomerController.class
+com\wenyu\crm\bean\Customer.class
+com\wenyu\crm\util\NavigationTag.class
+com\wenyu\crm\util\Page.class
+com\wenyu\crm\util\MyTag.class
+com\wenyu\crm\bean\BaseDict.class
