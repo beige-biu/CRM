@@ -1,7 +1,13 @@
 com\wenyu\crm\bean\QueryVo.class
-com\wenyu\crm\controller\CustomerController.class
+com\wenyu\crm\mapper\CustomerMapper.class
 com\wenyu\crm\bean\Customer.class
+com\wenyu\crm\service\CustomerService.class
+com\wenyu\crm\service\BaseDictService.class
+com\wenyu\crm\controller\CustomerController.class
+com\wenyu\crm\service\impl\BaseDictServiceImpl.class
 com\wenyu\crm\util\NavigationTag.class
+com\wenyu\crm\mapper\BaseDictMapper.class
+com\wenyu\crm\service\impl\CustomerServiceImpl.class
 com\wenyu\crm\util\Page.class
 com\wenyu\crm\util\MyTag.class
 com\wenyu\crm\bean\BaseDict.class

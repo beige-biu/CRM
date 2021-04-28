@@ -28,7 +28,7 @@ public class NavigationTag extends TagSupport {
 	/**
 	 * 显示页码数量
 	 */
-	private int number = 5;
+	private int number = 3;
 
 	@Override
 	public int doStartTag() throws JspException {
